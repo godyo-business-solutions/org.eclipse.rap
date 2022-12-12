@@ -12,7 +12,9 @@
 package org.eclipse.rap.demo;
 
 import org.eclipse.rap.demo.presentation.DemoPresentationWorkbenchAdvisor;
+import org.eclipse.rap.rwt.RWT;
 import org.eclipse.rap.rwt.application.EntryPoint;
+import org.eclipse.swt.dnd.*;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.ui.IWorkbenchPreferenceConstants;
 import org.eclipse.ui.PlatformUI;
